@@ -1,0 +1,21 @@
+file_name,condition,patient_id
+export_DB__121 us APC_CD45+_CD14-CD16-.fcs,CTRL,121
+export_DB__125 us APC_CD45+_CD14-CD16-.fcs,CASE,125
+export_DB__127 us APC_CD45+_CD14-CD16-.fcs,CTRL,127
+export_DB__143 us APC_CD45+_CD14-CD16-.fcs,CASE,143
+export_DB__160 us APC_CD45+_CD14-CD16-.fcs,CTRL,160
+export_DB__168 us APC_CD45+_CD14-CD16-.fcs,CTRL,168
+export_DB__181 us APC_CD45+_CD14-CD16-.fcs,CTRL,181
+export_DB__321 us APC_CD45+_CD14-CD16-.fcs,CASE,321
+export_DB__324 us APC_CD45+_CD14-CD16-.fcs,CASE,324
+export_DB__330 us APC_CD45+_CD14-CD16-.fcs,CTRL,330
+export_DB__331 us APC_CD45+_CD14-CD16-.fcs,CTRL,331
+export_DB__334 us APC_CD45+_CD14-CD16-.fcs,CASE,334
+export_DB__336 us APC_CD45+_CD14-CD16-.fcs,CASE,336
+export_DB__349 us APC_CD45+_CD14-CD16-.fcs,CTRL,349
+export_DB__351 us APC_CD45+_CD14-CD16-.fcs,CASE,351
+export_DB__359 us APC_CD45+_CD14-CD16-.fcs,CASE,359
+export_DB__372 us APC_CD45+_CD14-CD16-.fcs,CASE,372
+export_DB__375 us APC_CD45+_CD14-CD16-.fcs,CTRL,375
+export_DB__394 us APC_CD45+_CD14-CD16-.fcs,CASE,394
+export_DB__413 us APC_CD45+_CD14-CD16-.fcs,CTRL,413
