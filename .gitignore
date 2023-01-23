@@ -1,2 +1,3 @@
 *.fcs
 .ipynb_checkpoints/
+metadata/
