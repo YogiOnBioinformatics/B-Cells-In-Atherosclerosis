@@ -125,15 +125,15 @@ for (neighbor_threshold in neighbors_parameters){
       # Cluster Expression Heatmap 
       set.seed(1234)
 
-      png(glue("{output_folder}{output_file}_heatmap.png"))
-      plotExprHeatmap(sce, features = "type",
+      pdf(glue("{output_folder}{output_file}_heatmap.pdf"))
+      plot(plotExprHeatmap(sce, features = "type",
                       by = "cluster_id", k = "metaL", scale = "last", k_pal = my_color20,
-                      bars = TRUE, perc = TRUE) 
+                      bars = TRUE, perc = TRUE))
       dev.off()
 
       # Marker Expression Density Plotx
-      png(glue("{output_folder}{output_file}_density.png"))
-      plotClusterExprs(sce, k = "metaL", features = "type" )
+      pdf(glue("{output_folder}{output_file}_density.pdf"))
+      plot(plotClusterExprs(sce, k = "metaL", features = "type"))
       dev.off()
 
     }
