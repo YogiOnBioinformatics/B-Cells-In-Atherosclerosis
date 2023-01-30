@@ -1,3 +1,4 @@
 *.fcs
 .ipynb_checkpoints/
 metadata/
+analysis/3_plotting_and_clustering/output/
