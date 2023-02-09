@@ -2,3 +2,4 @@
 .ipynb_checkpoints/
 metadata/
 analysis/3_plotting_and_clustering/output/
+analysis/4_get_data_from_chosen_hyperparameters/output
